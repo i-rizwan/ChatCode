@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "988063221194",
+    "firebase_url": "https://innerhour-def20.firebaseio.com",
+    "project_id": "innerhour-def20",
+    "storage_bucket": "innerhour-def20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988063221194:android:391ce3ebf5ab6da8",
+        "android_client_info": {
+          "package_name": "com.nectotech.with.colabration.innerhourchatappdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988063221194-fbreieh7md0tooseh1m3b2ltt9hqtjh0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nectotech.with.colabration.innerhourchatappdemo",
+            "certificate_hash": "3C29B73D6800004DDD66B16B11AA65BC25D2938D"
+          }
+        },
+        {
+          "client_id": "988063221194-iq2g24m9083r0truc2gjm46ilai0pd50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGQVQfZ8501MENKXishNsC5jsjbR1jc3I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988063221194-iq2g24m9083r0truc2gjm46ilai0pd50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
